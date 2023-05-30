@@ -1,0 +1,36 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+}
+
+li p {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li {
+    float: right;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.divImg {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.pName {
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+}
